@@ -5,14 +5,13 @@
 
 <br>
 1. Scraping static websites like Amazon with BeautifulSoup
-<!-- <img src='pythonMorseCode.png'/>
- -->
-- 
-<br>
-2. Hangman [3rd October]
-<!-- <img src='pythonHangman.png'/> -->
 
-- 
+- https://github.com/jolenechong/webscrapingPython/blob/main/amazonScrape.py and https://github.com/jolenechong/webscrapingPython/blob/main/test.html
+- .py references .html and reads it with BeautifulSoup
+
+
+3. Scraping dynamic websites like Shopee with Selenium
+4. Scraping dynamic websites like Lazada with Selenium
 
 
 ## Usage
@@ -20,6 +19,7 @@ First install all nessasary libraries, copy this into command prompt/terminal
 ```
 pip insall bs4
 pip install requests
+
 pip install requests_html
 pip install selenium
 pip install webdriver_manager
