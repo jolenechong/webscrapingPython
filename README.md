@@ -8,10 +8,8 @@
 
 - https://github.com/jolenechong/webscrapingPython/blob/main/amazonScrape.py and https://github.com/jolenechong/webscrapingPython/blob/main/test.html
 - .py references .html and reads it with BeautifulSoup
-
-
-2. Scraping dynamic websites like Shopee with Selenium
-3. Scraping dynamic websites like Lazada with Selenium
+3. Scraping dynamic websites like Shopee with Selenium
+4. Scraping dynamic websites like Lazada with Selenium
 
 
 ## Usage
