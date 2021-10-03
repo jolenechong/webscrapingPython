@@ -4,22 +4,16 @@
 - Date: 3rd October 2021
 
 <br>
-1. Scraping static websites like Amazon with BeautifulSoup
-
-- https://github.com/jolenechong/webscrapingPython/blob/main/amazonScrape.py and https://github.com/jolenechong/webscrapingPython/blob/main/test.html
-- .py references .html and reads it with BeautifulSoup
+1. Scraping from local test.html file
+https://github.com/jolenechong/webscrapingPython/blob/main/raw.py
+3. Scraping static websites like Amazon with BeautifulSoup
+https://github.com/jolenechong/webscrapingPython/blob/main/amazonScrape.py
 <br>
-
-2. Scraping dynamic websites like Shopee with Selenium
-
-- https://github.com/jolenechong/webscrapingPython/blob/main/shopeeScrape.py
-
-
+3. Scraping dynamic websites like Shopee with Selenium
+https://github.com/jolenechong/webscrapingPython/blob/main/shopeeScrape.py
 <br>
-3. Scraping dynamic websites like Lazada with Selenium
-
-- https://github.com/jolenechong/webscrapingPython/blob/main/lazadaScrape.py
-
+4. Scraping dynamic websites like Lazada with Selenium
+https://github.com/jolenechong/webscrapingPython/blob/main/lazadaScrape.py
 
 ## Usage
 First install all nessasary libraries, copy this into command prompt/terminal
