@@ -10,10 +10,14 @@
 - .py references .html and reads it with BeautifulSoup
 <br>
 
-3. Scraping dynamic websites like Shopee with Selenium
+2. Scraping dynamic websites like Shopee with Selenium
+
 - https://github.com/jolenechong/webscrapingPython/blob/main/shopeeScrape.py
+
+
 <br>
-5. Scraping dynamic websites like Lazada with Selenium
+3. Scraping dynamic websites like Lazada with Selenium
+
 - https://github.com/jolenechong/webscrapingPython/blob/main/lazadaScrape.py
 
 
