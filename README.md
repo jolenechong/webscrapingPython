@@ -4,15 +4,13 @@
 - Date: 3rd October 2021
 
 <br>
-1. Scraping from local test.html file
-https://github.com/jolenechong/webscrapingPython/blob/main/raw.py
-3. Scraping static websites like Amazon with BeautifulSoup
-https://github.com/jolenechong/webscrapingPython/blob/main/amazonScrape.py
-<br>
-3. Scraping dynamic websites like Shopee with Selenium
-https://github.com/jolenechong/webscrapingPython/blob/main/shopeeScrape.py
-<br>
-4. Scraping dynamic websites like Lazada with Selenium
+1. Scraping from local test.html file<br>
+https://github.com/jolenechong/webscrapingPython/blob/main/raw.py <br>
+2. Scraping static websites like Amazon with BeautifulSoup<br>
+https://github.com/jolenechong/webscrapingPython/blob/main/amazonScrape.py <br>
+3. Scraping dynamic websites like Shopee with Selenium<br>
+https://github.com/jolenechong/webscrapingPython/blob/main/shopeeScrape.py<br>
+4. Scraping dynamic websites like Lazada with Selenium<br>
 https://github.com/jolenechong/webscrapingPython/blob/main/lazadaScrape.py
 
 ## Usage
